@@ -77,7 +77,7 @@ max=current.data;
 }
 current=current.next;
 }
-System.out.println("the min value is: "+max);
+System.out.println("the max value is: "+max);
 }
 }
 
